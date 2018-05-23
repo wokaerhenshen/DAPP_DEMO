@@ -19410,7 +19410,7 @@ module.exports={
   "_args": [
     [
       "elliptic@6.4.0",
-      "/Users/wing/project/blockchain/nas-dapps/theletter/neb.js"
+      "C:\\Users\\Karl\\Desktop\\wallet\\demoProject\\neb.js"
     ]
   ],
   "_from": "elliptic@6.4.0",
@@ -19436,7 +19436,7 @@ module.exports={
   ],
   "_resolved": "http://registry.npm.taobao.org/elliptic/download/elliptic-6.4.0.tgz",
   "_spec": "6.4.0",
-  "_where": "/Users/wing/project/blockchain/nas-dapps/theletter/neb.js",
+  "_where": "C:\\Users\\Karl\\Desktop\\wallet\\demoProject\\neb.js",
   "author": {
     "name": "Fedor Indutny",
     "email": "fedor@indutny.com"
